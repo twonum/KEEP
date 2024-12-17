@@ -4,6 +4,7 @@
 <div>
     <a href='https://jnjaby.github.io/' target='_blank'>Ruicheng Feng</a>&emsp;
     <a href='https://li-chongyi.github.io/' target='_blank'>Chongyi Li</a>&emsp;
+    <a href='https://github.com/twonum' target='_blank'>Taha Saleem</a>&emsp;
     <a href='https://www.mmlab-ntu.com/person/ccloy/' target='_blank'>Chen Change Loy</a>
 </div>
 <div>
